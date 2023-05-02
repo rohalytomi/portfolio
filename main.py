@@ -52,6 +52,9 @@ print("Sample covariance matrix:")
 print(sample_cov_matrix)
 
 
+# scatterplotot megcsinalni
+
+def convert(returns):
 
 
 
